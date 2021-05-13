@@ -1,0 +1,27 @@
+body {
+  background-color: #3d322c;
+  font-family: system-ui;
+
+
+
+}
+
+hr {
+  border-color: #d49d42;
+  border-width: 5px;
+  border-style: dotted none none;
+  width: 5%;
+
+
+}
+
+h1 {
+  color: #d49d42;
+  font-family: system-ui;
+
+}
+
+h3 {
+  color: #d49d42;
+  font-family: system-ui;
+}
