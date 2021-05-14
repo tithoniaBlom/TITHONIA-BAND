@@ -8,7 +8,9 @@ p {
   color: #ffd369;
   
 }
-
+.round {
+  border-radius: 50%;
+}
 link {
     color: #ffd369;
 }
