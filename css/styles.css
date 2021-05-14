@@ -1,13 +1,36 @@
 body {
-  background-color: #3d322c;
+  background-color: black;
   font-family: system-ui;
-
-
 
 }
 
+p {
+  color: #ffd369;
+
+}
+
+link {
+    color: #ffd369;
+}
+a {
+    color: #ffc93c;
+}
+table {
+    color: #ffd369;
+}
+
+ol {
+    color: #ffd369;
+}
+
+ul {
+    color: #ffd369;
+}
+label {
+    color: #ffd369;
+}
 hr {
-  border-color: #d49d42;
+  border-color: #fce38a;
   border-width: 5px;
   border-style: dotted none none;
   width: 5%;
@@ -16,12 +39,12 @@ hr {
 }
 
 h1 {
-  color: #d49d42;
+  color: #fce38a;
   font-family: system-ui;
 
 }
 
 h3 {
-  color: #d49d42;
+  color: #fce38a;
   font-family: system-ui;
 }
