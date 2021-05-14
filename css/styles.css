@@ -47,6 +47,7 @@ hr {
 
 }
 
+
 h1 {
   color: #fce38a;
   font-family: system-ui;
@@ -63,4 +64,7 @@ h2{
   text-align: center;
   color: #fce38a;
   font-family: system-ui;
+}
+.icon {
+  background-color: #fce38a
 }
